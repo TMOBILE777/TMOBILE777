@@ -1,0 +1,14 @@
+Developer
+/*Andev Web*/ 
+.login-box{
+        Position:  absolute
+        top:   50%;
+        Left:   50%;
+        width:   400px;
+        Padding:   40px;
+        Transform:  translate (-50%, -50%) ;
+        Background:  rgba(0, 0, 0, 0.5);
+        Box-sizing: border-box;
+        Box-shadow; 0  15px 25px rgba(0, 0, 0, 0.6);
+        Border-radius:  10px;
+}
